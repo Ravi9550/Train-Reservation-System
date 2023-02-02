@@ -1,0 +1,27 @@
+------------------------------------------e-Ticketing Services---------------------------------------
+--------------------------------Electronic Reservation Slip (Personal User)--------------------------
+-----------------------------------------------------------------------------------------------------
+PNR No                   : 86021581
+Transaction ID           : 20221101
+Boarding At              : NZM
+Reservation Upto         : NGP
+Passenger Mobile Number  : 9832726723
+Train details            : 1. Rajdhani Express(NZM<->MAS)          12741         20:25pm         20:30pm
+Date and time of Booking : Sat Nov 05 21:12:19 IST 2022
+Date of Journey          :
+-----------------------------------------------------------------------------------------------------
+
+FARE DETAILS : 
+-----------------------------------------------------------------------------------------------------
+Ticket Fare per person   : Rs. 2045
+Service Charge           : Rs.   40
+Total Fare               : Rs. 4130
+-----------------------------------------------------------------------------------------------------
+
+PASSENGER DETAILS : 
+-----------------------------------------------------------------------------------------------------
+Sr.No.  Name                       Age       Gender       Current Status
+1   saras nagaria              18   maleCONFIRMED
+2   abc def              20   maleCONFIRMED
+
+Thank you for using our Services.
